@@ -32,7 +32,22 @@ A modern and responsive **chat application** built with **React + Vite**, powere
 ## 🛠️ Getting Started
 
 ### 1. Clone the repository
-
-```bash
 git clone https://github.com/Ali-Haggag7/chat-app.git
 cd chat-app
+
+### 2. Install dependencies
+npm install
+
+### 3. Create a .env file and add the following environment variables
+### (Replace the placeholder values with your actual credentials)
+
+VITE_API_KEY=your_firebase_api_key
+
+VITE_CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+
+### 4. Run the app locally
+npm run dev
+
+## Then open your browser at:
+http://localhost:5173
+
