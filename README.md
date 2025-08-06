@@ -14,7 +14,6 @@ A modern and responsive **chat application** built with **React + Vite**, powere
 - 🎨 Clean, minimal & responsive UI
 - ⚡ Built with Vite for fast development
 - 📁 Scalable project structure
-- 🌐 Hosted frontend-ready (optional)
 
 ---
 
